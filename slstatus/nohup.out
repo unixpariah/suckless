@@ -1,0 +1,21 @@
+Another composite manager is already running (xcompmgr)
+Another composite manager is already running (xcompmgr)
+Another composite manager is already running (xcompmgr)
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+Another composite manager is already running (xcompmgr)
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x2400001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X connection to :0 broken (explicit kill or server shutdown).
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x2c00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
