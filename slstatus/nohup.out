@@ -19,3 +19,215 @@ X Error of failed request:  BadValue (integer parameter out of range for operati
   Value in failed request:  0x2c00001
   Serial number of failed request:  16
   Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x3000001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x3a00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x2800001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+/usr/local/bin/bain: line 3:  6071 Bus error               (core dumped) feh --no-fehbg --bg-scale $tmp_directory/background.png
+/usr/local/bin/bain: line 3:  6163 Bus error               (core dumped) feh --no-fehbg --bg-scale $tmp_directory/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+/usr/local/bin/bain: line 3:  6254 Bus error               (core dumped) feh --no-fehbg --bg-scale $tmp_directory/background.png
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x3c00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x5200001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x6400001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x6800001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x5a00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+/usr/local/bin/bain: line 3: 107407 Bus error               (core dumped) feh --no-fehbg --bg-scale $tmp_directory/background.png
+/usr/local/bin/bain: line 3: 107406 Bus error               (core dumped) feh --no-fehbg --bg-scale $tmp_directory/background.png
+/usr/local/bin/bain: line 3: 107402 Bus error               (core dumped) feh --no-fehbg --bg-scale $tmp_directory/background.png
+/usr/local/bin/bain: line 3: 107404 Bus error               (core dumped) feh --no-fehbg --bg-scale $tmp_directory/background.png
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x6200001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xc800001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Does not look like an image (magic bytes missing)
+feh ERROR: Unable to load image /tmp/bain/background.png
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xd400001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xb200001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xf200001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x10a00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x10a00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x11600001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x10a00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x13e00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x11e00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x13a00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x14a00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+X connection to :0 broken (explicit kill or server shutdown).
+      after 22 requests (22 known processed) with 0 events remaining.
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x17000001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+feh WARNING: feh WARNING: /tmp/bain/background.png - Invalid image file
+/tmp/bain/background.png - Invalid image filefeh ERROR: 
+Unable to load image /tmp/bain/background.pngfeh ERROR: 
+Unable to load image /tmp/bain/background.png
+feh WARNING: /tmp/bain/background.png - Invalid image filefeh WARNING: 
+feh ERROR: /tmp/bain/background.png - Invalid image fileUnable to load image /tmp/bain/background.png
+
+feh ERROR: Unable to load image /tmp/bain/background.png
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x14800001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 22 requests (22 known processed) with 0 events remaining.
+X connection to :0 broken (explicit kill or server shutdown).
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x19200001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x1ac00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x1c200001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x1aa00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x1e000001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+Maximum number of clients reached
+feh ERROR: Can't reopen X display.
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x1e400001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+Maximum number of clients reached
+feh ERROR: Can't reopen X display.
+Maximum number of clients reached
+feh ERROR: Can't reopen X display.
+Maximum number of clients reached
+feh ERROR: Maximum number of clients reached
+feh ERROR: Can't reopen X display.
+Can't reopen X display.
+Maximum number of clients reached
+feh ERROR: Can't reopen X display.
+Maximum number of clients reached
+feh ERROR: Can't reopen X display.
+Maximum number of clients reached
+feh ERROR: Can't reopen X display.
+Maximum number of clients reached
+feh ERROR: Can't reopen X display.
