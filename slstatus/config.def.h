@@ -72,9 +72,9 @@ static const char mic[]         = "[ `amixer sget Capture | tail -n 1 | awk '{pr
 
 static const struct arg args[] = {
         /* function format          argument */
-        { cpu_perc,             " %s%% ",      NULL },
-        { ram_used,             " %s",         NULL },
-        { ram_perc,             "(%s%%) ",      NULL },
+        { cpu_perc,             " %s%% ",       NULL },
+        { ram_used,             " %s",          NULL },
+        { ram_perc,             "(%s%%) ",       NULL },
         { datetime,             " %s ",         "%a %d %b" },
         { datetime,             "🕓 %s",         "%H:%M"}
 };
