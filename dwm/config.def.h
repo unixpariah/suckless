@@ -6,7 +6,7 @@ static const unsigned int gappx     = 10;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 0;        /* 0 means bottom bar */
-static const char *fonts[] = { "Source Code Pro:size=10" };
+static const char *fonts[] = { "JetBrains Mono:antialias=true:autohint=true:size=10" };
 static const char dmenufont[] = "Source Code Pro:size=10";
 //bg color
 static const char col_gray1[]       = "#3c3c3c";
